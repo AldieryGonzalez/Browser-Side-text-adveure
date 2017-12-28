@@ -1,0 +1,29 @@
+.speech {
+  font-weight: 700;
+  text-decoration: underline;
+  font-family: Garamond;
+}
+.resultsArea {
+  border-width: 1px;
+  border-color: grey;
+  border-style: solid;
+  height: 85vh;
+  width: 100%;
+  margin-top:2vh ;
+}
+input {
+ background-image: url('https://vignette.wikia.nocookie.net/assassinscreed/images/8/8b/Old_paper.jpg/revision/latest?cb=20120728131604');
+ background-repeat: no-repeat;
+ background-size: cover;
+  color:black;
+  border-color:yellow;
+  width: 50%;
+  height:9vh;
+  font-size: 150%;
+  font-family: "Garamond";
+  font-weight: 700;
+  padding-left: 1.5%;
+}
+body{
+  
+}
